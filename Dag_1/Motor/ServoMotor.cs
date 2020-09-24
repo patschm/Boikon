@@ -6,7 +6,7 @@ namespace Motor
 {
     class ServoMotor
     {
-        private float snelheid = 100;
+        private float snelheid = 200;
 
         public Encoder Encoder { get; set; } = Encoder.Incremental;
         public Direction Direction 
