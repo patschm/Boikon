@@ -1,0 +1,13 @@
+E:\Boikon\Dag_1\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+E:\Boikon\Dag_1\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+E:\Boikon\Dag_1\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+E:\Boikon\Dag_1\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+E:\Boikon\Dag_1\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+E:\Boikon\Dag_1\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+E:\Boikon\Dag_1\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

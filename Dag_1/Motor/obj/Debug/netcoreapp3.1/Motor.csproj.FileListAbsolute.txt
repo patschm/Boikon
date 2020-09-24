@@ -1,0 +1,13 @@
+E:\Boikon\Dag_1\Motor\bin\Debug\netcoreapp3.1\Motor.exe
+E:\Boikon\Dag_1\Motor\bin\Debug\netcoreapp3.1\Motor.deps.json
+E:\Boikon\Dag_1\Motor\bin\Debug\netcoreapp3.1\Motor.runtimeconfig.json
+E:\Boikon\Dag_1\Motor\bin\Debug\netcoreapp3.1\Motor.runtimeconfig.dev.json
+E:\Boikon\Dag_1\Motor\bin\Debug\netcoreapp3.1\Motor.dll
+E:\Boikon\Dag_1\Motor\bin\Debug\netcoreapp3.1\Motor.pdb
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.AssemblyInfo.cs
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.dll
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.pdb
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.genruntimeconfig.cache
+E:\Boikon\Dag_1\Motor\obj\Debug\netcoreapp3.1\Motor.csprojAssemblyReference.cache

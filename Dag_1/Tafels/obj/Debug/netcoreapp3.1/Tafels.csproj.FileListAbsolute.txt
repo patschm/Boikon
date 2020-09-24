@@ -1,0 +1,12 @@
+E:\Boikon\Dag_1\Tafels\bin\Debug\netcoreapp3.1\Tafels.exe
+E:\Boikon\Dag_1\Tafels\bin\Debug\netcoreapp3.1\Tafels.deps.json
+E:\Boikon\Dag_1\Tafels\bin\Debug\netcoreapp3.1\Tafels.runtimeconfig.json
+E:\Boikon\Dag_1\Tafels\bin\Debug\netcoreapp3.1\Tafels.runtimeconfig.dev.json
+E:\Boikon\Dag_1\Tafels\bin\Debug\netcoreapp3.1\Tafels.dll
+E:\Boikon\Dag_1\Tafels\bin\Debug\netcoreapp3.1\Tafels.pdb
+E:\Boikon\Dag_1\Tafels\obj\Debug\netcoreapp3.1\Tafels.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\Tafels\obj\Debug\netcoreapp3.1\Tafels.AssemblyInfo.cs
+E:\Boikon\Dag_1\Tafels\obj\Debug\netcoreapp3.1\Tafels.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\Tafels\obj\Debug\netcoreapp3.1\Tafels.dll
+E:\Boikon\Dag_1\Tafels\obj\Debug\netcoreapp3.1\Tafels.pdb
+E:\Boikon\Dag_1\Tafels\obj\Debug\netcoreapp3.1\Tafels.genruntimeconfig.cache

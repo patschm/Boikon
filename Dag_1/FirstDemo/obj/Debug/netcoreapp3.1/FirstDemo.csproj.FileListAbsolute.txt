@@ -1,0 +1,13 @@
+E:\Boikon\Dag_1\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.exe
+E:\Boikon\Dag_1\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.deps.json
+E:\Boikon\Dag_1\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.runtimeconfig.json
+E:\Boikon\Dag_1\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.runtimeconfig.dev.json
+E:\Boikon\Dag_1\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.dll
+E:\Boikon\Dag_1\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.pdb
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.csprojAssemblyReference.cache
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.AssemblyInfo.cs
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.dll
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.pdb
+E:\Boikon\Dag_1\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.genruntimeconfig.cache

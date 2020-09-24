@@ -1,0 +1,8 @@
+E:\Boikon\Dag_1\MyLib\obj\Debug\netstandard2.0\MyLib.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\MyLib\obj\Debug\netstandard2.0\MyLib.AssemblyInfo.cs
+E:\Boikon\Dag_1\MyLib\obj\Debug\netstandard2.0\MyLib.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\MyLib\bin\Debug\netstandard2.0\MijnBieb.deps.json
+E:\Boikon\Dag_1\MyLib\bin\Debug\netstandard2.0\MijnBieb.dll
+E:\Boikon\Dag_1\MyLib\bin\Debug\netstandard2.0\MijnBieb.pdb
+E:\Boikon\Dag_1\MyLib\obj\Debug\netstandard2.0\MijnBieb.dll
+E:\Boikon\Dag_1\MyLib\obj\Debug\netstandard2.0\MijnBieb.pdb

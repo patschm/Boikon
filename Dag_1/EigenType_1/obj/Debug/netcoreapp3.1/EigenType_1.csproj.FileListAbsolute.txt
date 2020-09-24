@@ -1,0 +1,16 @@
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\EigenType_1.exe
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\EigenType_1.deps.json
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\EigenType_1.runtimeconfig.json
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\EigenType_1.runtimeconfig.dev.json
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\EigenType_1.dll
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\EigenType_1.pdb
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\MijnBieb.dll
+E:\Boikon\Dag_1\EigenType_1\bin\Debug\netcoreapp3.1\MijnBieb.pdb
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.csprojAssemblyReference.cache
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.AssemblyInfo.cs
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.csproj.CopyComplete
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.dll
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.pdb
+E:\Boikon\Dag_1\EigenType_1\obj\Debug\netcoreapp3.1\EigenType_1.genruntimeconfig.cache

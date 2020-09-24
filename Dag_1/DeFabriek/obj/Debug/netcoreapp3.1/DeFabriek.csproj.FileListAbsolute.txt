@@ -1,0 +1,13 @@
+E:\Boikon\Dag_1\DeFabriek\bin\Debug\netcoreapp3.1\DeFabriek.exe
+E:\Boikon\Dag_1\DeFabriek\bin\Debug\netcoreapp3.1\DeFabriek.deps.json
+E:\Boikon\Dag_1\DeFabriek\bin\Debug\netcoreapp3.1\DeFabriek.runtimeconfig.json
+E:\Boikon\Dag_1\DeFabriek\bin\Debug\netcoreapp3.1\DeFabriek.runtimeconfig.dev.json
+E:\Boikon\Dag_1\DeFabriek\bin\Debug\netcoreapp3.1\DeFabriek.dll
+E:\Boikon\Dag_1\DeFabriek\bin\Debug\netcoreapp3.1\DeFabriek.pdb
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.csprojAssemblyReference.cache
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.AssemblyInfo.cs
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.dll
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.pdb
+E:\Boikon\Dag_1\DeFabriek\obj\Debug\netcoreapp3.1\DeFabriek.genruntimeconfig.cache

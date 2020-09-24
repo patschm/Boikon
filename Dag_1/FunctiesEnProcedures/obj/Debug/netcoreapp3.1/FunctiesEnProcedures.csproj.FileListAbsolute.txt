@@ -1,0 +1,12 @@
+E:\Boikon\Dag_1\FunctiesEnProcedures\bin\Debug\netcoreapp3.1\FunctiesEnProcedures.exe
+E:\Boikon\Dag_1\FunctiesEnProcedures\bin\Debug\netcoreapp3.1\FunctiesEnProcedures.deps.json
+E:\Boikon\Dag_1\FunctiesEnProcedures\bin\Debug\netcoreapp3.1\FunctiesEnProcedures.runtimeconfig.json
+E:\Boikon\Dag_1\FunctiesEnProcedures\bin\Debug\netcoreapp3.1\FunctiesEnProcedures.runtimeconfig.dev.json
+E:\Boikon\Dag_1\FunctiesEnProcedures\bin\Debug\netcoreapp3.1\FunctiesEnProcedures.dll
+E:\Boikon\Dag_1\FunctiesEnProcedures\bin\Debug\netcoreapp3.1\FunctiesEnProcedures.pdb
+E:\Boikon\Dag_1\FunctiesEnProcedures\obj\Debug\netcoreapp3.1\FunctiesEnProcedures.AssemblyInfoInputs.cache
+E:\Boikon\Dag_1\FunctiesEnProcedures\obj\Debug\netcoreapp3.1\FunctiesEnProcedures.AssemblyInfo.cs
+E:\Boikon\Dag_1\FunctiesEnProcedures\obj\Debug\netcoreapp3.1\FunctiesEnProcedures.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_1\FunctiesEnProcedures\obj\Debug\netcoreapp3.1\FunctiesEnProcedures.dll
+E:\Boikon\Dag_1\FunctiesEnProcedures\obj\Debug\netcoreapp3.1\FunctiesEnProcedures.pdb
+E:\Boikon\Dag_1\FunctiesEnProcedures\obj\Debug\netcoreapp3.1\FunctiesEnProcedures.genruntimeconfig.cache

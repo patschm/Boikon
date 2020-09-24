@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EigenType_1/1.0.0": {
+        "dependencies": {
+          "MijnBieb": "1.0.0"
+        },
+        "runtime": {
+          "EigenType_1.dll": {}
+        }
+      },
+      "MijnBieb/1.0.0": {
+        "runtime": {
+          "MijnBieb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EigenType_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MijnBieb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
