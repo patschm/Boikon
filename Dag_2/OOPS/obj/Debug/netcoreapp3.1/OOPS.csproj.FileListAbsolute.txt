@@ -1,0 +1,13 @@
+E:\Boikon\Dag_2\OOPS\bin\Debug\netcoreapp3.1\OOPS.exe
+E:\Boikon\Dag_2\OOPS\bin\Debug\netcoreapp3.1\OOPS.deps.json
+E:\Boikon\Dag_2\OOPS\bin\Debug\netcoreapp3.1\OOPS.runtimeconfig.json
+E:\Boikon\Dag_2\OOPS\bin\Debug\netcoreapp3.1\OOPS.runtimeconfig.dev.json
+E:\Boikon\Dag_2\OOPS\bin\Debug\netcoreapp3.1\OOPS.dll
+E:\Boikon\Dag_2\OOPS\bin\Debug\netcoreapp3.1\OOPS.pdb
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.csprojAssemblyReference.cache
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.AssemblyInfoInputs.cache
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.AssemblyInfo.cs
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.dll
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.pdb
+E:\Boikon\Dag_2\OOPS\obj\Debug\netcoreapp3.1\OOPS.genruntimeconfig.cache

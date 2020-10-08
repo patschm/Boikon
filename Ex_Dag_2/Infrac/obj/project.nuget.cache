@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9C4/cpvx2MZ2dG6xaSdjpOjCywT9xsyF7TdPML+PwWFi5MhHYML51Z7n38AG6V5lznh9u4JwvNQLl7OYrIgyw==",
+  "success": true,
+  "projectFilePath": "E:\\Boikon\\Ex_Dag_2\\Infrac\\Infrac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

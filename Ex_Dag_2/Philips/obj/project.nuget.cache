@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmELjSKkvIOBjX9xQph46GzBUggnNjbtHVG55VeAP9POquIc7TndwPKECeaOpsQlNjt5vaYPcs9qY4mQr9RLBQ==",
+  "success": true,
+  "projectFilePath": "E:\\Boikon\\Ex_Dag_2\\Philips\\Philips.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

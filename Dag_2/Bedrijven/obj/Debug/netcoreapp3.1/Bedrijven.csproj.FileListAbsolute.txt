@@ -1,0 +1,13 @@
+E:\Boikon\Dag_2\Bedrijven\bin\Debug\netcoreapp3.1\Bedrijven.exe
+E:\Boikon\Dag_2\Bedrijven\bin\Debug\netcoreapp3.1\Bedrijven.deps.json
+E:\Boikon\Dag_2\Bedrijven\bin\Debug\netcoreapp3.1\Bedrijven.runtimeconfig.json
+E:\Boikon\Dag_2\Bedrijven\bin\Debug\netcoreapp3.1\Bedrijven.runtimeconfig.dev.json
+E:\Boikon\Dag_2\Bedrijven\bin\Debug\netcoreapp3.1\Bedrijven.dll
+E:\Boikon\Dag_2\Bedrijven\bin\Debug\netcoreapp3.1\Bedrijven.pdb
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.csprojAssemblyReference.cache
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.AssemblyInfoInputs.cache
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.AssemblyInfo.cs
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.dll
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.pdb
+E:\Boikon\Dag_2\Bedrijven\obj\Debug\netcoreapp3.1\Bedrijven.genruntimeconfig.cache

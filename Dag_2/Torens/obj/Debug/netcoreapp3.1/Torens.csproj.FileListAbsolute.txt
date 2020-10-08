@@ -1,0 +1,13 @@
+E:\Boikon\Dag_2\Torens\bin\Debug\netcoreapp3.1\Torens.exe
+E:\Boikon\Dag_2\Torens\bin\Debug\netcoreapp3.1\Torens.deps.json
+E:\Boikon\Dag_2\Torens\bin\Debug\netcoreapp3.1\Torens.runtimeconfig.json
+E:\Boikon\Dag_2\Torens\bin\Debug\netcoreapp3.1\Torens.runtimeconfig.dev.json
+E:\Boikon\Dag_2\Torens\bin\Debug\netcoreapp3.1\Torens.dll
+E:\Boikon\Dag_2\Torens\bin\Debug\netcoreapp3.1\Torens.pdb
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.csprojAssemblyReference.cache
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.AssemblyInfoInputs.cache
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.AssemblyInfo.cs
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.dll
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.pdb
+E:\Boikon\Dag_2\Torens\obj\Debug\netcoreapp3.1\Torens.genruntimeconfig.cache

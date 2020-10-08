@@ -1,0 +1,13 @@
+E:\Boikon\Dag_2\MotorRevisie\bin\Debug\netcoreapp3.1\MotorRevisie.exe
+E:\Boikon\Dag_2\MotorRevisie\bin\Debug\netcoreapp3.1\MotorRevisie.deps.json
+E:\Boikon\Dag_2\MotorRevisie\bin\Debug\netcoreapp3.1\MotorRevisie.runtimeconfig.json
+E:\Boikon\Dag_2\MotorRevisie\bin\Debug\netcoreapp3.1\MotorRevisie.runtimeconfig.dev.json
+E:\Boikon\Dag_2\MotorRevisie\bin\Debug\netcoreapp3.1\MotorRevisie.dll
+E:\Boikon\Dag_2\MotorRevisie\bin\Debug\netcoreapp3.1\MotorRevisie.pdb
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.csprojAssemblyReference.cache
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.AssemblyInfoInputs.cache
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.AssemblyInfo.cs
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.dll
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.pdb
+E:\Boikon\Dag_2\MotorRevisie\obj\Debug\netcoreapp3.1\MotorRevisie.genruntimeconfig.cache

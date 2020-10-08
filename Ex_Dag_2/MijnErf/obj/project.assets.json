@@ -1,0 +1,180 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DoomsdayPreppers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DoomsdayPreppers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoomsdayPreppers.dll": {}
+        }
+      },
+      "Heras/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Heras.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Heras.dll": {}
+        }
+      },
+      "IEEE/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IEEE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IEEE.dll": {}
+        }
+      },
+      "Infrac/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrac.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrac.dll": {}
+        }
+      },
+      "Philips/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Philips.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Philips.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoomsdayPreppers/1.0.0": {
+      "type": "project",
+      "path": "../DoomsdayPreppers/DoomsdayPreppers.csproj",
+      "msbuildProject": "../DoomsdayPreppers/DoomsdayPreppers.csproj"
+    },
+    "Heras/1.0.0": {
+      "type": "project",
+      "path": "../Heras/Heras.csproj",
+      "msbuildProject": "../Heras/Heras.csproj"
+    },
+    "IEEE/1.0.0": {
+      "type": "project",
+      "path": "../IEEE/IEEE.csproj",
+      "msbuildProject": "../IEEE/IEEE.csproj"
+    },
+    "Infrac/1.0.0": {
+      "type": "project",
+      "path": "../Infrac/Infrac.csproj",
+      "msbuildProject": "../Infrac/Infrac.csproj"
+    },
+    "Philips/1.0.0": {
+      "type": "project",
+      "path": "../Philips/Philips.csproj",
+      "msbuildProject": "../Philips/Philips.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DoomsdayPreppers >= 1.0.0",
+      "Heras >= 1.0.0",
+      "IEEE >= 1.0.0",
+      "Infrac >= 1.0.0",
+      "Philips >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Boikon\\Ex_Dag_2\\MijnErf\\MijnErf.csproj",
+      "projectName": "MijnErf",
+      "projectPath": "E:\\Boikon\\Ex_Dag_2\\MijnErf\\MijnErf.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "E:\\Boikon\\Ex_Dag_2\\MijnErf\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Boikon\\Ex_Dag_2\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
+              "projectPath": "E:\\Boikon\\Ex_Dag_2\\DoomsdayPreppers\\DoomsdayPreppers.csproj"
+            },
+            "E:\\Boikon\\Ex_Dag_2\\Heras\\Heras.csproj": {
+              "projectPath": "E:\\Boikon\\Ex_Dag_2\\Heras\\Heras.csproj"
+            },
+            "E:\\Boikon\\Ex_Dag_2\\IEEE\\IEEE.csproj": {
+              "projectPath": "E:\\Boikon\\Ex_Dag_2\\IEEE\\IEEE.csproj"
+            },
+            "E:\\Boikon\\Ex_Dag_2\\Infrac\\Infrac.csproj": {
+              "projectPath": "E:\\Boikon\\Ex_Dag_2\\Infrac\\Infrac.csproj"
+            },
+            "E:\\Boikon\\Ex_Dag_2\\Philips\\Philips.csproj": {
+              "projectPath": "E:\\Boikon\\Ex_Dag_2\\Philips\\Philips.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

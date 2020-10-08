@@ -1,0 +1,12 @@
+E:\Boikon\Ex_Dag_2\Philips\bin\Debug\netstandard2.0\Philips.deps.json
+E:\Boikon\Ex_Dag_2\Philips\bin\Debug\netstandard2.0\Philips.dll
+E:\Boikon\Ex_Dag_2\Philips\bin\Debug\netstandard2.0\Philips.pdb
+E:\Boikon\Ex_Dag_2\Philips\bin\Debug\netstandard2.0\IEEE.dll
+E:\Boikon\Ex_Dag_2\Philips\bin\Debug\netstandard2.0\IEEE.pdb
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.csprojAssemblyReference.cache
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.AssemblyInfoInputs.cache
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.AssemblyInfo.cs
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.csproj.CoreCompileInputs.cache
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.csproj.CopyComplete
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.dll
+E:\Boikon\Ex_Dag_2\Philips\obj\Debug\netstandard2.0\Philips.pdb

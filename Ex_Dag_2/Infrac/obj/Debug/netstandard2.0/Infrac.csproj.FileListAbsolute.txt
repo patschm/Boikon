@@ -1,0 +1,12 @@
+E:\Boikon\Ex_Dag_2\Infrac\bin\Debug\netstandard2.0\Infrac.deps.json
+E:\Boikon\Ex_Dag_2\Infrac\bin\Debug\netstandard2.0\Infrac.dll
+E:\Boikon\Ex_Dag_2\Infrac\bin\Debug\netstandard2.0\Infrac.pdb
+E:\Boikon\Ex_Dag_2\Infrac\bin\Debug\netstandard2.0\IEEE.dll
+E:\Boikon\Ex_Dag_2\Infrac\bin\Debug\netstandard2.0\IEEE.pdb
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.csprojAssemblyReference.cache
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.AssemblyInfoInputs.cache
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.AssemblyInfo.cs
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.csproj.CoreCompileInputs.cache
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.csproj.CopyComplete
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.dll
+E:\Boikon\Ex_Dag_2\Infrac\obj\Debug\netstandard2.0\Infrac.pdb

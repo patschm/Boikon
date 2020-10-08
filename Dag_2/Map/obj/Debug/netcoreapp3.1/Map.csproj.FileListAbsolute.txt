@@ -1,0 +1,13 @@
+E:\Boikon\Dag_2\Map\bin\Debug\netcoreapp3.1\Map.exe
+E:\Boikon\Dag_2\Map\bin\Debug\netcoreapp3.1\Map.deps.json
+E:\Boikon\Dag_2\Map\bin\Debug\netcoreapp3.1\Map.runtimeconfig.json
+E:\Boikon\Dag_2\Map\bin\Debug\netcoreapp3.1\Map.runtimeconfig.dev.json
+E:\Boikon\Dag_2\Map\bin\Debug\netcoreapp3.1\Map.dll
+E:\Boikon\Dag_2\Map\bin\Debug\netcoreapp3.1\Map.pdb
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.AssemblyInfoInputs.cache
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.AssemblyInfo.cs
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.dll
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.pdb
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.genruntimeconfig.cache
+E:\Boikon\Dag_2\Map\obj\Debug\netcoreapp3.1\Map.csprojAssemblyReference.cache
