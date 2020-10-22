@@ -1,0 +1,13 @@
+E:\Boikon\Dag_3\Interactie_Deel_2\bin\Debug\netcoreapp3.1\Interactie_Deel_2.exe
+E:\Boikon\Dag_3\Interactie_Deel_2\bin\Debug\netcoreapp3.1\Interactie_Deel_2.deps.json
+E:\Boikon\Dag_3\Interactie_Deel_2\bin\Debug\netcoreapp3.1\Interactie_Deel_2.runtimeconfig.json
+E:\Boikon\Dag_3\Interactie_Deel_2\bin\Debug\netcoreapp3.1\Interactie_Deel_2.runtimeconfig.dev.json
+E:\Boikon\Dag_3\Interactie_Deel_2\bin\Debug\netcoreapp3.1\Interactie_Deel_2.dll
+E:\Boikon\Dag_3\Interactie_Deel_2\bin\Debug\netcoreapp3.1\Interactie_Deel_2.pdb
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.csprojAssemblyReference.cache
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.AssemblyInfoInputs.cache
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.AssemblyInfo.cs
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.dll
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.pdb
+E:\Boikon\Dag_3\Interactie_Deel_2\obj\Debug\netcoreapp3.1\Interactie_Deel_2.genruntimeconfig.cache

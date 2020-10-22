@@ -1,0 +1,7 @@
+E:\Boikon\Dag_3\Knopje\bin\Debug\Knopje.exe.config
+E:\Boikon\Dag_3\Knopje\bin\Debug\Knopje.exe
+E:\Boikon\Dag_3\Knopje\bin\Debug\Knopje.pdb
+E:\Boikon\Dag_3\Knopje\obj\Debug\Knopje.csprojAssemblyReference.cache
+E:\Boikon\Dag_3\Knopje\obj\Debug\Knopje.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_3\Knopje\obj\Debug\Knopje.exe
+E:\Boikon\Dag_3\Knopje\obj\Debug\Knopje.pdb

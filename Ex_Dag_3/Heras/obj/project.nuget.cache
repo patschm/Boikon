@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FIu80YEaZVzHdu6QUrW+4Lao6WXGBcuLN0Zt+XgWp7j1qpFMD0BmqF+ydMBoOYmxi9hHRxEJGLP27RFy8XoRjg==",
+  "success": true,
+  "projectFilePath": "E:\\Boikon\\Ex_Dag_3\\Heras\\Heras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

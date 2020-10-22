@@ -1,0 +1,13 @@
+E:\Boikon\Dag_3\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.exe
+E:\Boikon\Dag_3\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.deps.json
+E:\Boikon\Dag_3\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.runtimeconfig.json
+E:\Boikon\Dag_3\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.runtimeconfig.dev.json
+E:\Boikon\Dag_3\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.dll
+E:\Boikon\Dag_3\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.pdb
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.csprojAssemblyReference.cache
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.AssemblyInfoInputs.cache
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.AssemblyInfo.cs
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.dll
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.pdb
+E:\Boikon\Dag_3\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Boikon\Dag_3\EvolutieDerDelegats\bin\Debug\netcoreapp3.1\EvolutieDerDelegats.exe
+E:\Boikon\Dag_3\EvolutieDerDelegats\bin\Debug\netcoreapp3.1\EvolutieDerDelegats.deps.json
+E:\Boikon\Dag_3\EvolutieDerDelegats\bin\Debug\netcoreapp3.1\EvolutieDerDelegats.runtimeconfig.json
+E:\Boikon\Dag_3\EvolutieDerDelegats\bin\Debug\netcoreapp3.1\EvolutieDerDelegats.runtimeconfig.dev.json
+E:\Boikon\Dag_3\EvolutieDerDelegats\bin\Debug\netcoreapp3.1\EvolutieDerDelegats.dll
+E:\Boikon\Dag_3\EvolutieDerDelegats\bin\Debug\netcoreapp3.1\EvolutieDerDelegats.pdb
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.csprojAssemblyReference.cache
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.AssemblyInfoInputs.cache
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.AssemblyInfo.cs
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.dll
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.pdb
+E:\Boikon\Dag_3\EvolutieDerDelegats\obj\Debug\netcoreapp3.1\EvolutieDerDelegats.genruntimeconfig.cache

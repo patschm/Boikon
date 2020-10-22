@@ -1,0 +1,17 @@
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Mensen.exe
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.AssemblyInfoInputs.cache
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.AssemblyInfo.cs
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\FizzWare.NBuilder.dll
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.csprojAssemblyReference.cache
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.csproj.CopyComplete
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Mensen.deps.json
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Mensen.runtimeconfig.json
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Mensen.runtimeconfig.dev.json
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Mensen.dll
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Mensen.pdb
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\Faker.Net.Core.3.1.dll
+E:\Boikon\Dag_3\Mensen\bin\Debug\netcoreapp3.1\de-DE\Faker.Net.Core.3.1.resources.dll
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.csproj.CoreCompileInputs.cache
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.dll
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.pdb
+E:\Boikon\Dag_3\Mensen\obj\Debug\netcoreapp3.1\Mensen.genruntimeconfig.cache
