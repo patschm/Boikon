@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.Entities", "Boikon.Entities\Boikon.Entities.csproj", "{69980FC4-2848-435B-9920-36E9BB821E5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boikon.Entities", "Boikon.Entities\Boikon.Entities.csproj", "{69980FC4-2848-435B-9920-36E9BB821E5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.WebApi", "Boikon.WebApi\Boikon.WebApi.csproj", "{F0C4FA03-51A3-44B8-846E-A54C06FE57CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boikon.WebApi", "Boikon.WebApi\Boikon.WebApi.csproj", "{F0C4FA03-51A3-44B8-846E-A54C06FE57CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.Interfaces", "Boikon.Interfaces\Boikon.Interfaces.csproj", "{FD2FD57E-8737-46CF-A704-F86BA3DCFB6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boikon.Interfaces", "Boikon.Interfaces\Boikon.Interfaces.csproj", "{FD2FD57E-8737-46CF-A704-F86BA3DCFB6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.Repository.InMemory", "Boikon.Repository.InMemory\Boikon.Repository.InMemory.csproj", "{2248CBAC-E2D7-4965-90EA-19405E252501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boikon.Repository.InMemory", "Boikon.Repository.InMemory\Boikon.Repository.InMemory.csproj", "{2248CBAC-E2D7-4965-90EA-19405E252501}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

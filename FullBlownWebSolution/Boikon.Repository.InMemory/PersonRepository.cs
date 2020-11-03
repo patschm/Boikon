@@ -4,6 +4,7 @@ using FizzWare.NBuilder;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Faker;
 
 namespace Boikon.Repository.InMemory
 {
@@ -16,9 +17,9 @@ namespace Boikon.Repository.InMemory
             people = Builder<Person>
                 .CreateListOfSize(100)
                 .All()
-                //.With(p => p.FirstName = Faker.Name.First())
-                //.With(p => p.LastName = Faker.Name.Last())
-                //.With(p => p.Age = Faker.RandomNumber.Next(0, 123))
+                .With(p => p.FirstName = Name.First())
+                .With(p => p.LastName = Name.Last())
+                .With(p => p.Age = RandomNumber.Next(0, 123))
                 .Build()
                 .ToList();
         }
