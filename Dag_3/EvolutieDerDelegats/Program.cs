@@ -26,7 +26,7 @@ namespace EvolutieDerDelegats
 
             // Framework 3.0 (2008)
             // Lambda expressions
-            MathDel m4 = (a, b) =>a + b;
+            MathDel m4 = (a, b) => a + b;
             res = m4(4, 5);
 
             // Procedures

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Boikon.Entities\Boikon.Entities.csproj" />
+    <ProjectReference Include="..\Boikon.Interfaces\Boikon.Interfaces.csproj" />
+    <ProjectReference Include="..\Boikon.Repository.InMemory\Boikon.Repository.InMemory.csproj" />
+  </ItemGroup>
+
+</Project>
