@@ -13,6 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boikon.Repository.InMemory"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.ConsoleClient", "Boikon.ConsoleClient\Boikon.ConsoleClient.csproj", "{1D77AB9C-BBEC-4502-A9E9-31AB9583B8E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.ViewModels", "Boikon.ViewModels\Boikon.ViewModels.csproj", "{F2A5FAFE-05B8-45D9-9209-73EC01F11A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.WpfClient", "Boikon.WpfClient\Boikon.WpfClient.csproj", "{BCC5F4E6-7C16-4DFE-9E80-9E4786378979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boikon.Factories.Rest", "Boikon.Factories.Rest\Boikon.Factories.Rest.csproj", "{DDC87296-BAA5-446A-888B-65F93F81AAF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{1D77AB9C-BBEC-4502-A9E9-31AB9583B8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D77AB9C-BBEC-4502-A9E9-31AB9583B8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D77AB9C-BBEC-4502-A9E9-31AB9583B8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A5FAFE-05B8-45D9-9209-73EC01F11A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A5FAFE-05B8-45D9-9209-73EC01F11A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A5FAFE-05B8-45D9-9209-73EC01F11A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A5FAFE-05B8-45D9-9209-73EC01F11A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC5F4E6-7C16-4DFE-9E80-9E4786378979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC5F4E6-7C16-4DFE-9E80-9E4786378979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC5F4E6-7C16-4DFE-9E80-9E4786378979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC5F4E6-7C16-4DFE-9E80-9E4786378979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC87296-BAA5-446A-888B-65F93F81AAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC87296-BAA5-446A-888B-65F93F81AAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC87296-BAA5-446A-888B-65F93F81AAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC87296-BAA5-446A-888B-65F93F81AAF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
