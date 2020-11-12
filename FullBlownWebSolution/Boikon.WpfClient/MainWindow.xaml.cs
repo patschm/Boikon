@@ -26,10 +26,11 @@ namespace Boikon.WpfClient
     /// </summary>
     public partial class MainWindow : Window
     {
-        private MainViewModelFactory factory = new RestMainViewModelFactory();
+        private MainViewModelFactory factory;
 
         public MainWindow()
         {
+            factory = new RestMainViewModelFactory();
             InitializeComponent();
             Loaded += MainWindow_Loaded;
         }
@@ -37,6 +38,11 @@ namespace Boikon.WpfClient
         private async void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
             DataContext = await factory.CreateModelAsync();  
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
 
         }
     }
