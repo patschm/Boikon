@@ -42,5 +42,28 @@ namespace Boikon.WebApi.Kontroleurs
 
             return CreatedAtAction(nameof(Get),  new { id = p.ID }, p);
         }
+        [HttpPut]
+        [Route("{id}")]
+        public IActionResult Put([FromRoute]int id, [FromBody]Person p)
+        {
+            bool ok = _repository.Update(id, p);
+            if (ok)
+            {
+                return Ok();
+            }
+            return NotFound();
+        }
+
+        [HttpDelete]
+        [Route("{id}")]
+        public IActionResult Delete([FromRoute]int id)
+        {
+            var ok = _repository.Delete(id);
+            if (ok)
+            {
+                return Ok();
+            }
+            return NotFound();
+        }
     }
 }
