@@ -31,7 +31,7 @@
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <ListView Grid.Column="0" 
-                  ItemsSource="{Binding Path=People}" 
+                  ItemsSource="{Binding Path=People, Mode=TwoWay}" 
                   ItemTemplate="{StaticResource lstItem}">
         </ListView>
 
@@ -49,9 +49,10 @@
             <TextBlock Grid.Row="0" Grid.Column="0">First Name</TextBlock>
             <TextBlock Grid.Row="1" Grid.Column="0">Last Name</TextBlock>
             <TextBlock Grid.Row="2" Grid.Column="0">Age</TextBlock>
-            <TextBox Grid.Row="0" Grid.Column="1"></TextBox>
-            <TextBox Grid.Row="1" Grid.Column="1"></TextBox>
-            <TextBox Grid.Row="2" Grid.Column="1"></TextBox>
+            <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Path=Detail.FirstName, Mode=TwoWay}"></TextBox>
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Path=Detail.LastName, Mode=TwoWay}"></TextBox>
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Path=Detail.Age, Mode=TwoWay}"></TextBox>
+            <!--<Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Command="{Binding Path=InsertCommand}">Insert</Button>-->
             <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Click="Button_Click">Insert</Button>
         </Grid>
     </Grid>

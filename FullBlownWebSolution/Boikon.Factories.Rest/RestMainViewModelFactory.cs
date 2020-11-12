@@ -4,7 +4,9 @@ using Boikon.ViewModels.Factories;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
 namespace Boikon.Factories.Rest
@@ -19,7 +21,17 @@ namespace Boikon.Factories.Rest
             string data = await response.Content.ReadAsStringAsync();
             List<Person> people = JsonConvert.DeserializeObject<List<Person>>(data);
 
-            return new MainViewModel { People = people };
+            return new MainViewModel { People =new ObservableCollection<Person>(people), Detail=new PersonViewModel() };
+        }
+
+        public override async Task<bool> InsertAsync(Person p)
+        {
+            string data = JsonConvert.SerializeObject(p);
+            StringContent content = new StringContent(data);
+            content.Headers.ContentType = MediaTypeHeaderValue.Parse("application/json");
+            var result = await client.PostAsync("", content);
+
+            return result.IsSuccessStatusCode;
         }
     }
 }

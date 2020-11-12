@@ -41,9 +41,19 @@ namespace Boikon.WpfClient
 
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private async void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            MainViewModel model = DataContext as MainViewModel;
+            Person p = new Person
+            {
+                FirstName = model.Detail?.FirstName,
+                LastName = model.Detail?.LastName,
+                Age = model.Detail.Age
+            };
+            if (await factory.InsertAsync(p))
+            {
+                model.People.Add(p);
+            }
         }
     }
 }
