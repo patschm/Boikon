@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 using Boikon.Repository.InMemory;
+using Microsoft.AspNetCore.Mvc.Formatters;
 
 namespace Boikon.WebApi
 {
@@ -21,7 +22,9 @@ namespace Boikon.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IPersonRepository, PersonRepository>();
-            services.AddControllers();
+            services.AddControllers(opts=> {
+                opts.OutputFormatters.Add(new XmlSerializerOutputFormatter());
+            });
         }
 
         // Knutsel hier uw request pipeline in elkaar

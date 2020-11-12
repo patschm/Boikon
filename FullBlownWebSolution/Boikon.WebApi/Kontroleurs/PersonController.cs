@@ -20,9 +20,10 @@ namespace Boikon.WebApi.Kontroleurs
 
         [HttpGet]
         [Route("all")]
-        public IActionResult GetAll()
+        public IActionResult GetAll(int page = 0, int size=10)
         {
-            var query = _repository.Get().Take(10);
+            int skip = page * size;
+            var query = _repository.Get().Skip(skip).Take(size);
             return Ok(query.ToList());
         }
 
